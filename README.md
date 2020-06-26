@@ -2,7 +2,7 @@
 
 Physiological data analysis Walkout Study - Max Planck Institute for Human Development 
 
-Pipelines for EDA and BVP signal analysis using Pyphysio library developed by Andrea Bizzego PhD; 
+Pipelines for EDA and BVP signal analysis using pyPhysio library developed by Andrea Bizzego PhD; 
 raw data was collected with Empatica E4 Wristbands (Empatica, Milano, Italy)
 
 # Reference 
